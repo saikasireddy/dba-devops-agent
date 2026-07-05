@@ -1,0 +1,6 @@
+google-generativeai
+langchain
+langchain-google-genai
+python-dotenv
+requests
+psycopg2-binary
